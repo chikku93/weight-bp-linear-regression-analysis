@@ -69,13 +69,13 @@ Weight = -154.65-1.93 (HBP)+ 4.89 (Ht) -0.79 (PA)+0.04(AGE)-0.85(GENDER)
 Let Pa = 3.2(mean Pa),Age=47.7(mean age), Gender=1(males)
 ```
 
-<span style="color:red;">Predicted Weight for those with HBP</span>
+<font color="red">Predicted Weight for those with HBP</font>
 ```
 Weight  = -154.65-1.93 x1 + 4.89Ht -0.79x3.2+0.04x47.7-0.85x1
         = --158.05+4.89Ht
 ```
 
-<span style="color:blue;">Predicted Weight for those without HBP</span>
+<font color="blue">Predicted Weight for those without HBP</font>
 ```
 Weight  = -154.65-1.93 x0 + 4.89Ht -0.79x3.2+0.04x47.7-0.85x1
         = -156.12+4.89Ht
